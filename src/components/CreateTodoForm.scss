@@ -1,0 +1,18 @@
+$input-width : 400px;
+
+    #createTodo{
+
+
+        & input, & button{
+            width : $input-width;
+        }
+
+
+        & textarea{
+            width: $input-width;
+            max-width: $input-width;
+            max-height: $input-width !important;
+        }
+
+}
+

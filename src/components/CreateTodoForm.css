@@ -1,0 +1,7 @@
+#createTodo input, #createTodo button {
+  width: 400px; }
+
+#createTodo textarea {
+  width: 400px;
+  max-width: 400px;
+  max-height: 400px !important; }

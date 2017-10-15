@@ -1,0 +1,7 @@
+#editTodoForm input, #editTodoForm button {
+  width: 400px; }
+
+#editTodoForm textarea {
+  width: 400px;
+  max-width: 400px;
+  max-height: 400px !important; }
